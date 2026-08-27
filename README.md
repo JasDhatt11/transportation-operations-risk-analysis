@@ -58,6 +58,12 @@ Some of the actions I would consider based on the analysis include:
 - Improve consistency in operational reporting and documentation.
 - Review the data regularly to identify new or emerging patterns.
 
+## Analysis Notebook
+
+The full analysis, SQL queries, and results are available in the Jupyter Notebook below.
+
+[View the Transportation Damage Analysis Notebook](Transportation_Damage_Analysis.ipynb)
+
 ## What I Learned
 
 This project gave me an opportunity to work with a larger operational dataset and practice the full analysis process — from cleaning the data to finding patterns and turning those findings into practical recommendations.
