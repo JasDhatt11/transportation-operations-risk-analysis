@@ -26,6 +26,7 @@ I wanted to answer a few practical questions:
 - Excel
 - Data Analysis
 - Data Visualization
+- SQL
 
 ## Dataset
 
